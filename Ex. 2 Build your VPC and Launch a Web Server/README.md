@@ -104,13 +104,14 @@ So, this is how I created a VPC, launched an EC2 instance, and hosted a simple w
 ## Output Screenshots (Attach 3)
 
 ### Screenshot 1: VPC and Subnet Details
-<img width="1918" height="983" alt="image" src="https://github.com/user-attachments/assets/564c4bcf-e4c0-4f1c-9407-3657b7797100" />
+
+<img width="1918" height="919" alt="555176930-564c4bcf-e4c0-4f1c-9407-3657b7797100" src="https://github.com/user-attachments/assets/c2c7502c-ad07-4cef-85f9-1823dd4c0d16" />
 
 
 
 ### Screenshot 2: EC2 Instance Running
 
-<img width="1918" height="987" alt="image" src="https://github.com/user-attachments/assets/0c91eafa-1010-45f1-bb31-9c0997137176" />
+<img width="1918" height="921" alt="2" src="https://github.com/user-attachments/assets/6418d723-ce28-4f88-8d2b-7abc00437a19" />
 
 
 
